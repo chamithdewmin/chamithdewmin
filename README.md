@@ -45,9 +45,7 @@
 
 ### Most Used Languages 💻
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamithdewmin&layout=compact&theme=dark" alt="Chamith's Most Used Languages" /></p><br><br><br><br><br><br>
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamithdewmin&theme=dark" alt="GitHub Streak" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamithdewmin&layout=compact)
 
 
 ### Contact Me 📬
