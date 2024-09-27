@@ -41,7 +41,7 @@
 
 ### My GitHub Stats 📊
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chamithdewmin&show_icons=true&hide_border=true&theme=dark" alt="Chamith's GitHub Stats" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamithdewmin)](https://github.com/chamithdewmin/github-readme-stats)
 
 ### Most Used Languages 💻
 
