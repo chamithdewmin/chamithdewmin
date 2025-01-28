@@ -19,7 +19,7 @@
 💡 **Tech Enthusiast** passionate about building innovative projects.  
 📱 Currently learning **Flutter**, **JavaFX**, and **UI/UX Design**.  
 🎨 Creating engaging designs with **Photoshop** and **Illustrator**.  
-🎥 **Content Creator** at [Logozo]([https://www.youtube.com/@Logozosri](https://www.youtube.com/@Logozosri)) sharing coding tutorials.  
+🎥 **Content Creator** at [Logozo](https://www.youtube.com/@Logozosri](https://www.youtube.com/@Logozosri) sharing coding tutorials.  
 
 ---
 
