@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  👉 *Crafting solutions, one line of code at a time.* 👈
+  👉 Crafting solutions, one line of code at a time. 👈
 </p>
