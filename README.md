@@ -21,7 +21,7 @@
 💡 **Tech Enthusiast** passionate about building innovative projects.  
 📱 Currently learning **Flutter**, **JavaFX**, and **UI/UX Design**.  
 🎨 Creating engaging designs with **Photoshop** and **Illustrator**.  
-🎥 **Content Creator** at [Chamith Dewmin]([https://www.youtube.com/@Logozosri](https://www.youtube.com/@ChamithDewmin)) sharing coding tutorials.
+🎥 **Content Creator** at [Chamith Dewmin](https://www.youtube.com/@ChamithDewmin) sharing coding tutorials.
 
 ---
 
