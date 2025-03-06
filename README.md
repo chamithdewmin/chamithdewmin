@@ -1,5 +1,3 @@
-
-
 ![Banner](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/Python.jpeg?fit=1200%2C800&ssl=1)
 
 <h1 align="center">
@@ -13,11 +11,11 @@
 
 ### 🎓 About Me
 
-- 🎓 **Undergraduate** at **NIBM** – Mastering Software Engineering.  
-💡 **Tech Enthusiast** passionate about building innovative projects.  
-📱 Currently learning **Flutter**, **JavaFX**, and **UI/UX Design**.  
-🎨 Creating engaging designs with **Photoshop** and **Illustrator**.  
-🎥 **Content Creator** at [Chamith Dewmin](https://www.youtube.com/@ChamithDewmin) sharing coding tutorials.
+- 🎓 **Undergraduate** at **NIBM** – Currently pursuing a Master's in Software Engineering.  
+- 💡 **Tech Enthusiast** passionate about developing innovative solutions that solve real-world problems.  
+- 📱 Actively learning and working with **Flutter**, **JavaFX**, and **UI/UX Design** to enhance my development skills.  
+- 🎨 Proficient in **Photoshop**, **Illustrator**, and **Figma**, creating captivating visuals and user interfaces.  
+- 🎥 **Content Creator** on [Chamith Dewmin](https://www.youtube.com/@ChamithDewmin), sharing educational coding tutorials and tech content.
 
 ---
 
@@ -34,14 +32,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="43%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=chamithdewmin&count_private=true&theme=vue-dark&border_radius=10" alt="GitHub Streak"/>
-  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=chamithdewmin&show_icons=true&theme=vue-dark&count_private=true&border_radius=10">
+  <img width="44%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=chamithdewmin&count_private=true&theme=vue-dark&border_radius=10" alt="GitHub Streak"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=chamithdewmin&show_icons=true&theme=vue-dark&count_private=true&border_radius=10">
   <br>
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamithdewmin&layout=compact&theme=vue-dark&border_radius=10">
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamithdewmin&layout=compact&theme=vue-dark&border_radius=10">
 </p>
 
-
 ---
+
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -59,5 +57,5 @@
 ---
 
 <p align="center">
-  👉 Crafting solutions, one line of code at a time. 👈
+  👉 Crafting innovative solutions through technology, one line of code at a time. 👨‍💻
 </p>
