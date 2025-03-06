@@ -34,10 +34,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="40%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=chamithdewmin&count_private=true&theme=vue-dark&border_radius=10" alt="GitHub Streak"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=chamithdewmin&show_icons=true&theme=vue-dark&count_private=true&border_radius=10">
+  <img width="43%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=chamithdewmin&count_private=true&theme=vue-dark&border_radius=10" alt="GitHub Streak"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=chamithdewmin&show_icons=true&theme=vue-dark&count_private=true&border_radius=10">
   <br>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamithdewmin&layout=compact&theme=vue-dark&border_radius=10">
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamithdewmin&layout=compact&theme=vue-dark&border_radius=10">
 </p>
 
 
