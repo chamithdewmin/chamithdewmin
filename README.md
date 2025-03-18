@@ -4,18 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=38D6B6&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I'm+Chamith+Dewmin+👨💻" />
 </h1>
 
-<h3 align="center"> Software Developer | Web Developer | Mobile App Developer | Graphic Designer | UI/UX Designer</h3>
+<h3 align="center">Software Developer | Web Developer | Mobile App Developer | Graphic Designer | UI/UX Designer</h3>
 <h3 align="center">🇱🇰 Passionate Coder & Tech Content Creator from Sri Lanka</h3>
 
 ---
 
 ### 🎓 About Me
 
-- 🎓 **Undergraduate** at **NIBM** – Currently pursuing a Master's in Software Engineering.  
-- 💡 **Tech Enthusiast** passionate about developing innovative solutions that solve real-world problems.  
-- 📱 Actively learning and working with **Flutter**, **JavaFX**, and **UI/UX Design** to enhance my development skills.  
-- 🎨 Proficient in **Photoshop**, **Illustrator**, and **Figma**, creating captivating visuals and user interfaces.  
-- 🎥 **Content Creator** on [Chamith Dewmin](https://www.youtube.com/@ChamithDewmin), sharing educational coding tutorials and tech content.
+- 🎓 **Undergraduate** at **NIBM** – Currently pursuing a Master's in **Software Engineering**.
+- 💡 **Tech Enthusiast** – Passionate about developing innovative solutions to real-world problems.
+- 📱 Skilled in **Flutter**, **JavaFX**, and **UI/UX Design**, continuously working to enhance my development expertise.
+- 🎨 **Creative Professional** – Proficient in **Photoshop**, **Illustrator**, and **Figma**, creating captivating visuals and intuitive user interfaces.
+- 🎥 **Tech Content Creator** – Sharing educational coding tutorials and tech insights on my [YouTube channel](https://www.youtube.com/@ChamithDewmin).
 
 ---
 
