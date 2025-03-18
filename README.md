@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=38D6B6&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I'm+Chamith+Dewmin+👨💻" />
 </h1>
 
-<h3 align="center">Software Developer | Web Developer | Mobile App Developer | Graphic Designer | UI/UX Designer</h3>
+<h3 align="center">Software Developer | Web Developer | Mobile App Developer | Graphic Designer</h3>
 <h3 align="center">🇱🇰 Passionate Coder & Tech Content Creator from Sri Lanka</h3>
 
 ---
