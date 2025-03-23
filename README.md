@@ -1,4 +1,4 @@
-![Banner](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/Python.jpeg?fit=1200%2C800&ssl=1) 
+![Banner](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/Python.jpeg?fit=1200%2C800&ssl=1)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=38D6B6&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I'm+Chamith+Dewmin+👨💻" />
@@ -35,7 +35,7 @@
   <img width="44%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=chamithdewmin&count_private=true&theme=vue-dark&border_radius=10" alt="GitHub Streak"/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=chamithdewmin&show_icons=true&theme=vue-dark&count_private=true&border_radius=10">
   <br>
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamithdewmin&layout=compact&theme=vue-dark&border_radius=10&langs_count=10" alt="Top Langs">
+
 </p>
 
 ---
