@@ -1,5 +1,5 @@
 ![Banner](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/Python.jpeg?fit=1200%2C800&ssl=1)
-
+ 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=38D6B6&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I'm+Chamith+Dewmin+👨💻" />
 </h1>
