@@ -29,14 +29,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img width="44%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=chamithdewmin&count_private=true&theme=vue-dark&border_radius=10" alt="GitHub Streak"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=chamithdewmin&show_icons=true&theme=vue-dark&count_private=true&border_radius=10">
-  <br>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamithdewmin&layout=compact&theme=vue-dark&border_radius=10" alt="Top Languages">
-</p> 
 
 ---
 
